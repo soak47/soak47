@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soak47
 - 👀 I’m interested in progressing my abilities
-- 🌱 I’m currently learning modding gta
+- 🌱 I’m currently unreal engine
 - 💞️ I’m looking to collaborate on projects connected to my current 3d skill set
 - 📫 How to reach me discord Soak Gaming#7835
 
